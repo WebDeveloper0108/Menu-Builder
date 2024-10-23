@@ -55,12 +55,3 @@ To get this project running locally, follow these steps:
 
 5. **Access the application:**
    Open your browser and go to `http://localhost:3000` to interact with the menu app.
-
-## Contributing
-Feel free to submit pull requests if you'd like to contribute!
-
-## License
-This project is licensed under the MIT License.
-```
-
-Let me know if you'd like any further adjustments!
